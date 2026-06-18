@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**pushprajkumar640-lang/pushprajkumar640-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pushpraj Kumar, a B.Tech CSE student passionate about Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🤖 Aspiring AI/ML Engineer
+- 💻 Learning DSA, Python, HTML, CSS & JavaScript
+- 🌱 Exploring Machine Learning & Deep Learning
+- 🚀 Building Real-World Projects
+- 📚 Continuous Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C Programming
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- Data Structures & Algorithms
+
+## 🎯 Current Goals
+- Learn Machine Learning
+- Build AI Projects
+- Contribute to Open Source
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pushpraj-kumar-89573a383
+- Email: pushprajkumar640@gmail.com
+⭐ Learn • Build • Improve • Repeat
