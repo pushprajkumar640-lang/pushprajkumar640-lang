@@ -99,7 +99,7 @@ Status      : Learning & Building
 
 ---
 
-<h1 align="center">🌐 CONNECT WITH ME</h1>
+🌐 CONNECT WITH ME</h1>
 
 <p align="center">
 
