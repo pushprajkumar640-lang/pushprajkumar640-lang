@@ -6,7 +6,7 @@
 
 ### 🎓 B.Tech CSE Student | 🤖 Future software Engineer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Pushpraj+Kumar;B.Tech+CSE+Student;Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;DSA+%7C+Python+%7C+Web+Development;Building+The+Future+With+Code;Turning+Ideas+Into+Reality;Code+Never+Lies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Pushpraj+Kumar;B.Tech+CSE+Student;Machine+Learning+Enthusiast;DSA+%7C+Python+%7C+Web+Development;Building+The+Future+With+Code;Turning+Ideas+Into+Reality;Code+Never+Lies" />
 <img src="https://komarev.com/ghpvc/?username=pushprajkumar640-lang&style=for-the-badge"/>
 
 </div>
@@ -70,26 +70,6 @@ Status      : Learning & Building
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pushprajkumar640-lang&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-# 🔥 CODING STATUS
-
-```text
-████████████████████ 100%
-
-DSA Journey        ███████████░░░░░ 60%
-Web Development    ████████████░░░░ 70%
-Python             ███████████░░░░░ 60%
-```
-
----
-
 # 🧠 CURRENTLY LEARNING
 
 🤖 Artificial Intelligence
@@ -118,8 +98,6 @@ Python             ███████████░░░░░ 60%
 > 🤖 "Building Intelligent Systems For The Future."
 
 ---
-
-# 🌐 CONNECT WITH ME
 
 <h1 align="center">🌐 CONNECT WITH ME</h1>
 
@@ -156,10 +134,6 @@ Python             ███████████░░░░░ 60%
 ---
 
 <div align="center">
-
-# ☠️ NOT HERE TO FOLLOW TRENDS ☠️
-
-# 🔥 HERE TO BUILD THEM 🔥
 
 ### ⚔️ CODE • LEARN • BUILD • REPEAT ⚔️
 
