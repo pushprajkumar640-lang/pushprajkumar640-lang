@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Pushpraj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
+<p align="center">
+  <img src="./pushpraj.png" width="100%" alt="Pushpraj Kumar Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Pushpraj Kumar</h1>
 
 ### 🎓 B.Tech CSE Student | 🤖 Future software Engineer 
