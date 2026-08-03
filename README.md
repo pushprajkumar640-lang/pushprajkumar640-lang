@@ -45,20 +45,18 @@ Status      : Learning & Building
 # ⚡ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,linux,mysql&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode,mysql&perline=6"/>
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pushprajkumar640-lang&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushprajkumar640-lang&layout=compact&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pushprajkumar640-lang&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=pushprajkumar640-lang&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushprajkumar640-lang&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushprajkumar640-lang&theme=tokyonight"/>
 </p>
 
 ---
