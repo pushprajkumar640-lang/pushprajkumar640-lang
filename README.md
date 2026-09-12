@@ -49,15 +49,14 @@ Status      : Learning & Building
 </p>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pushprajkumar640-lang&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushprajkumar640-lang&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushprajkumar640-lang&theme=tokyonight"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=pushprajkumar640-lang&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pushprajkumar640-lang&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pushprajkumar640-lang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pushprajkumar640-langtheme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushprajkumar640-lang&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=pushprajkumar640-lang&theme=react-dark&hide_border=true)
 
 ---
 
