@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:082F49,65:164E63,100:06B6D4&text=PUSHPRAJ%20KUMAR&fontSize=48&fontColor=67E8F9&fontAlignY=36&desc=DEVELOPER%20%7C%20CREATOR%20%7C%20INNOVATOR&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Cyberpunk Profile Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:082F49,65:164E63,100:06B6D4&text=PUSHPRAJ%20KUMAR&fontSize=48&fontColor=67E8F9&fontAlignY=36&animation=fadeIn" width="100%" alt="Cyberpunk Profile Banner"/>
 
 <br/>
 
@@ -18,9 +18,7 @@
 <a href="https://pushprajkumar640-lang.github.io/portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F5FF" alt="Portfolio"/>
 </a>
-
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Exploring+Artificial+Intelligence;Building+Web+Applications;Learning+DSA+%26+Problem+Solving;Turning+Ideas+Into+Reality" alt="Animated Introduction"/>
 </div>
 
@@ -167,8 +165,6 @@ A personal portfolio showcasing my work, technical interests, and journey as a d
   />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushprajkumar640-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" width="49%" alt="Most Used Languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pushprajkumar640-lang&hide_border=true&background=0D1117&ring=22D3EE&fire=00F5FF&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub Contribution Streak"/>
 
