@@ -22,9 +22,6 @@
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Exploring+Artificial+Intelligence;Building+Web+Applications;Learning+DSA+%26+Problem+Solving;Turning+Ideas+Into+Reality" alt="Animated Introduction"/>
-
-<img src="https://komarev.com/ghpvc/?username=pushprajkumar640-lang&style=flat-square&color=0891B2&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-
 </div>
 
 ---
@@ -187,17 +184,17 @@ A personal portfolio showcasing my work, technical interests, and journey as a d
 
 ---
 
-<h2 align="center">🚀 SPACE SHOOTER // ARCADE MODE</h2>
+<h2 align="center">🤖 CYBER ROBOT </h2>
 
 <div align="center">
 
-<img src="YOUR_SPACE_SHOOTER_GIF_URL" width="100%" alt="Animated Space Shooter Game"/>
+<img src="./cyber_robot_walk.gif" width="100%" alt="Cyber Robot Walking Animation"/>
 
-### `MISSION: DEFEND THE GALAXY`
+### `AUTOPILOT: ON`
 
-`⚡ PLAYER 01` &nbsp; • &nbsp; `🎯 TARGET LOCKED` &nbsp; • &nbsp; `🚀 LEVEL UP`
+⚡ LEARN &nbsp; • &nbsp; 💻 BUILD &nbsp; • &nbsp; 🚀 EVOLVE
 
-**CODE. FIGHT BUGS. SAVE THE GALAXY.**
+**KEEP MOVING. KEEP CODING.**
 
 </div>
 
