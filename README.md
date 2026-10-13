@@ -160,13 +160,27 @@ A personal portfolio showcasing my work, technical interests, and journey as a d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pushprajkumar640-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub Statistics"/>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=pushprajkumar640-lang&show_icons=true&theme=tokyonight&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Overview"
+  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushprajkumar640-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" width="49%" alt="Most Used Languages"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=pushprajkumar640-lang&hide_border=true&background=0D1117&ring=22D3EE&fire=00F5FF&currStreakLabel=22D3EE&sideLabels=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub Contribution Streak"/>
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/22D3EE/pushprajkumar640-lang"
+    alt="Pushpraj's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 
 </div>
 
@@ -200,23 +214,11 @@ A personal portfolio showcasing my work, technical interests, and journey as a d
 
 ---
 
-<h2 align="center">▰ 07. CONNECT WITH ME</h2>
+<h3 align="center">&gt; THINK BIG. CODE SMART. BUILD BETTER.</h3>
 
-<div align="center">
-
-<a href="https://github.com/pushprajkumar640-lang"><img src="https://img.shields.io/badge/GitHub-Explore_My_Code-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
-
-<a href="https://www.linkedin.com/in/pushpraj-kumar-89573a383"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
-
-<a href="https://leetcode.com/u/Pushpraj33"><img src="https://img.shields.io/badge/LeetCode-Keep_Practicing-0D1117?style=for-the-badge&logo=leetcode&logoColor=22D3EE" alt="LeetCode"/></a>
-
-<a href="https://pushprajkumar640-lang.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
-
-<br/><br/>
-
-### `> THINK BIG. CODE SMART. BUILD BETTER.`
-
-**⚡ Learn continuously. Build fearlessly. Improve every day.**
+<p align="center">
+  ⚡ Learn continuously. Build fearlessly. Improve every day.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:083344,100:020617&height=140&section=footer" width="100%" alt="Cyberpunk Footer"/>
 
